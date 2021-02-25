@@ -1,0 +1,25 @@
+{
+	"info": {
+		"_postman_id": "39b94d97-e613-4cbc-998e-539d45a72312",
+		"name": "neoprime",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://neoprime.it",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://neoprime.it",
+					"protocol": "http",
+					"host": [
+						"neoprime",
+						"it"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
